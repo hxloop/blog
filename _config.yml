@@ -4,8 +4,8 @@ meta_description: "ios, xcode, swift, articles. tips and tricks."
 
 baseurl: ""
 url: www.hxloop.com
-paginate_path: "blog/page:num/"
-permalink: blog/:title/
+paginate_path: "page:num/"
+permalink: :title/
 
 markdown: kramdown
 
