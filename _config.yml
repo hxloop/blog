@@ -1,12 +1,14 @@
-title: Long Haul
-description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
+title: hxloop
+description: "A set of articles from my day to day findings."
+meta_description: "ios, xcode, swift, articles. tips and tricks."
 
-url: http://brianmaierjr.github.com/long-haul
-baseurl: "/long-haul"
+baseurl: ""
+url: www.hxloop.com
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
 markdown: kramdown
+
 highlighter: rouge
 gems: [jekyll-paginate]
 paginate: 5
@@ -20,9 +22,10 @@ navigation:
    url: /contact
 
 social:
-   github: brianmaierjr
-   twitter: brianmaierjr
-   facebook: brianmaierjr
-   email: brimaidesigns@gmail.com
+   github: hxloop
+   twitter: hxl00p
+   email: gyard01@gmail.com
 
-google_analytics: "UA-58263416-1"
+google_analytics: 'UA-102071010-4'
+# disqus: 'demowebsite'
+# mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
