@@ -11,7 +11,7 @@ markdown: kramdown
 
 highlighter: rouge
 gems: [jekyll-paginate]
-paginate: 5
+paginate: 50
 
 navigation:
  - title: Home
