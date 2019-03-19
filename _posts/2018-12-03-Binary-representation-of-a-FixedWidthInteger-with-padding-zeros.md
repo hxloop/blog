@@ -1,7 +1,3 @@
----
-published: true
----
-
 >An initializer in `String` class `String(5, radix: 2)` creates a string which is a binary representation of 5 as : `101` 
 But it will not give a padded version (for obvious and good reasons) like `00000101` or `00000000 00000101` which may be desirable in some cases
 
