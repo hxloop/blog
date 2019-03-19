@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 >An initializer in `String` class `String(5, radix: 2)` creates a string which is a binary representation of 5 as : `101` 
